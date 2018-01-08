@@ -33,5 +33,5 @@ const getNums = function(file){
 
 getNums('../somenumbers.json').then(function(data){
   console.log('then the data is ', data);
-  data.forEach(function())
+  // data.forEach(function();
 });
